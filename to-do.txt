@@ -1,0 +1,15 @@
+Code
+- homepage
+- user portal
+- admin portal
+- sample category page
+- sample post page
+- user register page
+- user password recovery page
+
+- JS validation
+
+Document
+- layout document: page design
+- site map
+- logic process
