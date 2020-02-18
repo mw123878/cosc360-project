@@ -1,0 +1,43 @@
+header {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+#titleBarSearch {
+    margin-left: 40%;
+}
+
+#titleBarButtons {
+    margin-left: 15%;
+}
+
+.container {
+    min-height: 950px;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 1.5rem;
+}
+
+#categoryHeading {
+    width: 75%;
+    text-align: center;
+}
+
+#navOptions {
+    width: 75%;
+}
+
+.postContainer .col {
+    padding: 0;
+}
+
+footer div p {
+    text-align: center;
+    color: white;
+    width: 11rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}

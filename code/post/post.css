@@ -1,0 +1,51 @@
+header {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+#titleBarSpacing {
+    width: 90%;
+}
+
+.container {
+    min-height: 950px;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 1.5rem;
+}
+
+figure {
+    width: 75%;
+}
+
+#navOptions {
+    width: 75%;
+}
+
+#uploadButton {
+    margin-top: 2rem;
+}
+
+footer div p {
+    text-align: center;
+    color: white;
+    width: 11rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+#replyButton {
+    float: right;
+}
+
+#replyContainer .col {
+    padding: 0;
+}
+
+#replyContainer figure {
+    width: 100%;
+    margin: 0.5rem 0 0.5rem 0;
+}
